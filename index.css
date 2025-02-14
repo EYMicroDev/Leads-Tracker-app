@@ -6,7 +6,7 @@ body {
 }
 
 label {
-    color: #5f9341;
+    color: #2e6d02;
     font-weight: 900;
 }
 
@@ -14,21 +14,21 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
+    border: 1px solid #2e6d02;
     margin-bottom: 4px;
 }
 
 button {
-    background: #5f9341;
+    background: #2e6d02;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #2e6d02;
     font-weight: bold;
 }
 
 #delete-btn {
     background: white;
-    color: #5f9341;
+    color: #2e6d02;
 }
 
 ul {
@@ -42,7 +42,7 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: #2e6d02;
 }
 
 
